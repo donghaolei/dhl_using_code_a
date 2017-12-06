@@ -1,4 +1,0 @@
-
-folder a_d1
-
-file: a_d1_text1.txt
